@@ -10,9 +10,10 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Bas-99" width= "44px" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-06-512.png" />][Instagram]
-
-[<img align="left" alt="Bas-99" width="44px" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" />][Linkedin]
+[<img align="left" alt="Bas-99" width= "33px" src="https://www.iconfinder.com/icons/3225191/instagram_media_app_social_popular_logo_icon" />][Instagram]
+[<img align="left" alt="Bas-99" width="33px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" />][Linkedin]
+[<img align="left" alt="Bas-99" width="33px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png" />][Reddit]
+[<img align="left" alt="Bas-99" width="33px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" />][Twitter]
 
 <br />
 
@@ -24,3 +25,5 @@
 
 [Linkedin]: https://www.linkedin.com/in/bas-van-de-rijt-a548701a2
 [Instagram]: https://www.instagram.com/basvanderijt
+[Reddit]: https://www.reddit.com/user/bas161299
+[Twitter]: https://www.twitter.com/rijt_bas
