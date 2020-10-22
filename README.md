@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on my first java based app! 
 - 🌱 I'm currently learning java and engineering courses 🤣
 - 🎓 2020 Goals: getting better with java and android development
-- 🖌 Fun fact: I love to be creative in the adobe programs (also disgned my avatar 😀)
+- 🖌 Fun fact: I love to be creative in the adobe programs (disgned my avatar and top bar 😀)
 
 <br />
 
