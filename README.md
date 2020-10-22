@@ -12,7 +12,7 @@
 
 [<img alt="Bas-99" width= "22px" src="https://www.futsalwinsum.nl/wp-content/uploads/2015/12/Instagram-logo.png" />][Instagram]
 
-[<img align="left" alt="Bas-99" | Linkedin" width="22px" src="cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][Linkedin]
+[<img alt="Bas-99" width="22px" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" />][Linkedin]
 
 <br />
 
