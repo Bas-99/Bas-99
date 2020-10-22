@@ -10,9 +10,9 @@
 ### Connect with me:
 
 
-[<img alt="Bas-99" width= "22px" src="https://www.futsalwinsum.nl/wp-content/uploads/2015/12/Instagram-logo.png" />][Instagram]
+[<img align="left" alt="Bas-99" width= "44px" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-06-512.png" />][Instagram]
 
-[<img alt="Bas-99" width="22px" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" />][Linkedin]
+[<img align="left" alt="Bas-99" width="44px" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" />][Linkedin]
 
 <br />
 
