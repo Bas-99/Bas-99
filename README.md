@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Bas - aka [Bas-99]  👋
 
-<!--
-**Bas-99/Bas-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Mechanical Engineering student and Coding Enthausiast!
+- 🔭 I'm currently working on my first java based app! 
+- 🌱 I'm currently learning java and engineering courses 🤣
+- 🎓 2020 Goals: getting better with java and android development
+- 🖌 Fun fact: I love to be creative in the adobe programs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Bas-99" | Instagram" width="22px" src="cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Bas-99" | Instagram" width="22px" src="cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][Instagram]
+
+<br />
+
+### Languages and Tools:
+
+
+<br />
+<br />
+
+[Linkedin]: https://www.linkedin.com/in/bas-van-de-rijt-a548701a2
+[Instagram]: https://www.instagram.com/basvanderijt
