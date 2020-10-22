@@ -12,8 +12,6 @@
 ---
 
 ### Connect with me:
-
-
 [<img align="left" alt="Bas-99" width= "33px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />][Instagram]
 [<img align="left" alt="Bas-99" width="33px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" />][Linkedin]
 [<img align="left" alt="Bas-99" width="33px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png" />][Reddit]
