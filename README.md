@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Bas-99" | Instagram" width="22px" src="cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="Bas-99" | Instagram" width="22px" src="https://www.vectorico.com/wp-content/uploads/2018/02/Twitter-Logo-300x244.png" />][Instagram]
+<img src="https://www.vectorico.com/wp-content/uploads/2018/02/Twitter-Logo-300x244.png" />
 
 <br />
 
