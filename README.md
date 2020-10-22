@@ -3,7 +3,7 @@
 ### Hi there, I'm Bas - aka [Bas-99]  👋
 
 
-## I'm a Mechanical Engineering student and Coding Enthausiast!
+## I'm a Mechanical Engineering student who likes to code!
 - 🔭 I'm currently working on my first java based app! 
 - 🌱 I'm currently learning java and engineering courses 🤣
 - 🎓 2020 Goals: getting better with java and android development
