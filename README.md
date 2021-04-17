@@ -1,13 +1,9 @@
 ![top bar](./images/gitHubStartBar.png)
 
-### Hi there, I'm Bas - aka [Bas-99]  👋
+### Hi there, I'm Bas 👋
 
 
-## I'm a Mechanical Engineering student who likes to code!
-- 🔭 I'm currently working on my first java based app! 
-- 🌱 I'm currently learning java and engineering courses 🤣
-- 🎓 2020 Goals: getting better with java and android development
-- 🖌 Fun fact: I love to be creative in the adobe programs (disgned my avatar and top bar 😀)
+
 
 <br />
 
